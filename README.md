@@ -1,3 +1,4 @@
+![logo](https://github.com/shivamshar03/shivamshar03/blob/main/Black%20Minimalist%20Corporate%20Professional%20Profile%20LinkedIn%20Banner%20(1).png)
 <h1 align="center">Hi 👋, I'm Shivam Sharma</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 <img align="right" alt="coding gif" width="400" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif">
