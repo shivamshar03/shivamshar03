@@ -1,6 +1,5 @@
 ![logo](https://github.com/shivamshar03/shivamshar03/blob/main/Black%20Minimalist%20Corporate%20Professional%20Profile%20LinkedIn%20Banner%20(1).png)
-<h1 align="center">Hi 👋, I'm Shivam Sharma</h1>
-<h3 align="center">Software Developer | AI Enthusiast | Community Leader | Community Lead @ NexHub | Mentor @ Abhyudaya Coding Club </h3>
+<h2 align="center">Software Developer | AI Enthusiast | Community Leader | Community Lead @ NexHub | Mentor @ Abhyudaya Coding Club </h2>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=shivamshar03&label=Profile%20views&color=0e75b6&style=flat" alt="shivamshar03" />
