@@ -13,11 +13,11 @@
 - 🔧 Currently building: **[Anaya – A Voice-Based AI Assistant](https://github.com/shivamshar03/Anaya)**, **Virtual Lab** (an interactive platform for coding & learning), and an **Automated Email & QR Generator** for event management
 - 🌱 Actively learning: **FastAPI**, **LangChain**, **Whisper**, **Kotlin (Android Dev)**, and **AI/ML frameworks**
 - 🤝 Open to collaborating on: **NexHub community tools**, automation for educational systems, and ML-powered SaaS platforms
-
-<img align="right" alt="coding gif" width="450" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif">
-
 - 🧩 Looking for contributors to: **[Virtual Lab Project](https://github.com/shivamshar03/virtual-lab)** – includes compilers, study materials, smart testing, and collaborative tools  
 - 💻 Core tech stack: **Python, C/C++, MySQL, Flask, HTML/CSS, JavaScript**, and backend APIs
+
+<img align="right" alt="coding gif" width="270" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif">
+
 - 👨‍💼 Leadership roles: Chairperson at **NexHub**, Founder & Mentor at **Abhyudaya Coding Club**
 - 💬 Ask me about: **AI/ML**, **Backend Development**, **Automation**, **Developer Communities**, or **Python Projects**
 - 📫 Reach me: **shivamshar0310@gmail.com**
